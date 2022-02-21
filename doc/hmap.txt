@@ -1,0 +1,12 @@
+================================================================================
+
+This plugin helps you visualize all set keymaps. See example below:
+
+                                                          *hmap.toggle_window()*
+hmap.toggle_window()
+
+    Show/close the main window >
+        hmap.toggle_window()
+<
+
+vim:tw=78:ts=8:ft=help:norl:
